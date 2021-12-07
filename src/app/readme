@@ -1,0 +1,4 @@
+interpolation use for showing dynamice data in template 
+
+tsconfig use for the point the specifc typescript poninting use
+polyfills use for making missing function which are  used or not comes in the pervious version

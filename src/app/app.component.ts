@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angularlearning';
+  data ="hello code "
+  num=100
+
+  getsum(){
+    alert(" at button component")
+  }
 }
